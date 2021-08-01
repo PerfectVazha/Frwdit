@@ -7,12 +7,12 @@ Only Give Permission In your Telegram Personal Channel
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @DforDarkAngel
+(C) @PerfectVazha
 Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jijinr/Frwdit)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PerfectVazha/Frwdit)
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
@@ -20,7 +20,7 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 
 Deploy in your vps
 ```sh
-git clone https://github.com/Jijinr/Frwdit
+git clone https://github.com/PerfectVazha/Frwdit
 cd Frwit
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -44,4 +44,4 @@ python3 main.py
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* `Special Thanks Dump Group Members`🤣
+* `Special Thanks Dark Angel⚡`
