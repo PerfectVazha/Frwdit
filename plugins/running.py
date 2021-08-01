@@ -22,7 +22,7 @@ async def run(bot, message):
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     m = await bot.send_message(
-        text="<i>File Forwording Started😉</i>",
+        text="<i>File Forwording Started🔥</i>",
         reply_markup=reply_markup,
         chat_id=message.chat.id
     )
@@ -63,7 +63,7 @@ async def run(bot, message):
             pass
    # await m.delete()
     buttons = [[
-        InlineKeyboardButton('📜 Support Group', url='https://t.me/DxHelpDesk')
+        InlineKeyboardButton('📜 Support', url='https://t.me/Perfect_Vazha')
     ]] 
     reply_markup = InlineKeyboardMarkup(buttons)
     await m.edit(
